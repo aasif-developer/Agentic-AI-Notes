@@ -1,152 +1,306 @@
 ========================================
-STUDENT GUIDANCE CELL (SGC)
+C3 – CAMPUS TO CORPORATE CLUB
+OFFICIAL KNOWLEDGE BASE
 ========================================
 
-ABOUT SGC
----------
-Student Guidance Cell (SGC) is a student-led organization at
-C. Abdul Hakeem College of Engineering and Technology (CAHCET),
-Melvisharam, Tamil Nadu.
-
-Established: 2010
-
-Mission:
-Empower students through technical workshops, career guidance,
-leadership, innovation, and professional development.
-
-Motto:
-"For the Students, Of the Students, By the Students."
 
 ========================================
+ABOUT C3
+========================================
 
-WHAT SGC DOES
--------------
+C3 stands for Campus to Corporate Club.
 
-SGC organizes:
+C3 is a student-focused initiative that helps students develop
+technical skills, soft skills, practical knowledge, teamwork,
+communication skills and career readiness.
 
-- Technical Workshops
-- AI Workshops
-- Hackathons
-- Career Guidance Sessions
-- Placement Preparation
-- Knowledge Transfer Sessions
-- Technical Competitions
+The main goal of C3 is to help students bridge the gap between
+college learning and the requirements of the corporate world.
+
+
+========================================
+PURPOSE OF C3
+========================================
+
+C3 focuses on:
+
+- Technical Skill Development
 - Soft Skill Development
-- Awareness Programs
-- Symposiums
+- Practical Learning
+- Teamwork
+- Communication
+- Problem Solving
+- Career Readiness
+- Industry Preparation
+
 
 ========================================
-
-DEPARTMENTS
------------
-
-- Technical
-- Design
-- Media
-- Documentation
-- Event Management
-- Social Media
-- Financial Development
-
+DOMAINS
 ========================================
 
-CURRENT TEAM
-------------
+C3 provides different domains that allow students to explore
+and develop technical and professional skills.
+
+Students can choose domains based on their interests and
+career goals.
+
+
+========================================
+AIML DOMAIN
+========================================
+
+AIML stands for Artificial Intelligence and Machine Learning.
+
+The AIML domain helps students learn about:
+
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Data Handling
+- Deep Learning
+- Generative AI
+- Practical AI Applications
+
+The AIML domain focuses on helping students understand AI/ML
+concepts and develop practical skills through learning and
+projects.
+
+
+========================================
+BENEFITS OF C3
+========================================
+
+C3 provides students with opportunities to:
+
+- Learn new technical skills
+- Improve communication
+- Develop teamwork skills
+- Work on projects
+- Participate in activities
+- Develop practical knowledge
+- Improve problem-solving abilities
+- Prepare for careers and placements
+
+
+========================================
+ACTIVITIES
+========================================
+
+C3 can involve activities such as:
+
+- Workshops
+- Learning Sessions
+- Technical Activities
+- Competitions
+- Projects
+- Team Activities
+- Skill Development Programs
+- Career-related Activities
+
+
+========================================
+CAREER DEVELOPMENT
+========================================
+
+C3 helps students become more career-ready by developing:
+
+- Technical knowledge
+- Communication skills
+- Teamwork
+- Practical experience
+- Problem-solving skills
+- Professional abilities
+
+
+========================================
+C3 TEAM
+========================================
+
+
+----------------------------------------
+LEADERSHIP
+----------------------------------------
 
 President:
-Mohammed Ayaz A
+Ashfaq Ahmed. M
 
-Vice Presidents:
-Mohamed Melhan K O
-Kashif Ulhaq K
+Vice President:
+Nabeel
 
-Advisor:
-Raja Rajeswari S
+Session Handler:
+Harini Radhakrishnan
 
-Administrators:
-Mohammed Aasif
-Mohamed Zahangir
+Event Manager:
+Aamir
 
-========================================
 
-MAJOR EVENTS
-------------
+----------------------------------------
+CORE MEMBERS
+----------------------------------------
 
-Build X AI
-- AI workshop for first-year students.
+Core Members:
 
-Critical Thinking Workshop
-- Problem solving and decision making.
+- Sahira Fathima N
+- Bargavi R
+- DHIYA THARINI KB
+- Deepadharshini San...
+- Shareen Begum.Z
+- Mohamed Riyaz M
+- Mohamed Zaid
+- Mohammed Owais A...
+- S Mohammad Saifull...
 
-Revibe
-- Official symposium of SGC.
 
-Knowledge Transfer Sessions
-- Senior members teach junior members.
+----------------------------------------
+TRAINEES
+----------------------------------------
 
-Substance Awareness Program
-- Drug awareness and mental health.
+Trainees:
 
-========================================
+- Akramullah
+- Jayasuriyan
 
-MEMBERSHIP
-----------
-
-Who can join?
-Eligible CAHCET students.
-
-Selection Process:
-Interview-based recruitment.
 
 ========================================
-
-CONTACT
--------
-
-Website:
-https://teamsgc.in
-
-College:
-C. Abdul Hakeem College of Engineering and Technology
-
-Location:
-Melvisharam, Tamil Nadu.
-
+TEAM FAQ
 ========================================
 
-FAQ
----
+Q: Who is the President of C3?
+A: The President of C3 is Ashfaq Ahmed. M.
 
-Q: What is SGC?
-A: Student Guidance Cell is a student organization focused on student development.
+Q: Who is the Vice President of C3?
+A: The Vice President of C3 is Nabeel.
 
-Q: What does SGC do?
-A: Conducts workshops, hackathons, career guidance, and technical events.
+Q: Who is the VP of C3?
+A: The Vice President of C3 is Nabeel.
 
-Q: How can I join?
-A: Participate in the official recruitment process.
+Q: Who is the Session Handler of C3?
+A: The Session Handler of C3 is Harini Radhakrishnan.
 
-Q: What is Build X AI?
-A: An AI workshop organized by SGC.
+Q: Who is the Event Manager of C3?
+A: The Event Manager of C3 is Aamir.
 
-Q: What is Revibe?
-A: The official symposium conducted by SGC.
+Q: Who are the trainees of C3?
+A: The C3 trainees are Akramullah and Jayasuriyan.
+
+Q: Who is Akramullah?
+A: Akramullah is a trainee of C3.
+
+Q: Who is Jayasuriyan?
+A: Jayasuriyan is a trainee of C3.
+
+Q: Who are the core members of C3?
+A: The available core members listed in the C3 knowledge base are Sahira Fathima N, Bargavi R, DHIYA THARINI KB, Deepadharshini San..., Shareen Begum.Z, Mohamed Riyaz M, Mohamed Zaid, Mohammed Owais A..., and S Mohammad Saifull...
+
 
 ========================================
+FREQUENTLY ASKED QUESTIONS
+========================================
 
+Q: What is C3?
+A: C3 stands for Campus to Corporate Club. It is a
+student-focused initiative that helps students develop skills
+and prepare for their transition from college to the corporate
+world.
+
+Q: What is the purpose of C3?
+A: The purpose of C3 is to help students develop technical
+skills, soft skills, practical knowledge, teamwork,
+communication and career readiness.
+
+Q: What are the domains in C3?
+A: C3 has different domains through which students can explore
+and develop technical and professional skills.
+
+Q: What is AIML in C3?
+A: AIML stands for Artificial Intelligence and Machine Learning.
+The AIML domain focuses on AI/ML concepts and practical skills.
+
+Q: What are the benefits of joining C3?
+A: C3 provides opportunities to learn skills, participate in
+activities, work on projects, collaborate with others and
+improve career readiness.
+
+Q: How does C3 help students?
+A: C3 helps students improve technical knowledge, soft skills,
+teamwork, communication, practical experience and career
+readiness.
+
+Q: What activities does C3 conduct?
+A: C3 can involve workshops, learning sessions, technical
+activities, competitions, projects and skill development
+programs.
+
+
+========================================
 CHATBOT RULES
--------------
+========================================
 
-You are the Official AI Assistant of Student Guidance Cell.
+You are the Official AI Assistant of C3 –
+Campus to Corporate Club.
 
-Use ONLY the information in this document.
+Use ONLY the information provided in this knowledge base.
 
-If information is unavailable, reply:
+1. Answer questions related to C3 using the information above.
 
-"I'm sorry, I couldn't find that information in the official SGC knowledge base."
+2. Understand related keywords, similar words and different
+   ways of asking the same question.
 
-Do not invent facts.
+3. Do not require an exact question match.
 
-Keep answers short, clear, and professional.
+4. Example:
 
+   User:
+   "Why should I join C3?"
+
+   Understand that this is related to:
+
+   "What are the benefits of C3?"
+
+   Provide the relevant answer.
+
+5. Another example:
+
+   User:
+   "Who leads C3?"
+
+   Understand that this refers to the President of C3.
+
+6. Keep answers short, clear and beginner-friendly.
+
+7. Do not invent or assume information.
+
+8. If the requested information is not available in this
+   knowledge base, reply:
+
+   "I'm sorry, I couldn't find that information in the official
+   C3 knowledge base."
+
+9. Do not answer unrelated questions.
+
+10. If the user asks an unrelated question, reply:
+
+    "I'm the C3 AI Assistant. Please ask me something related
+    to C3."
+
+11. When answering questions about C3 team members, use only
+    the names and roles provided in this knowledge base.
+
+12. Do not create or guess additional team members, roles,
+    positions or personal information.
+
+
+========================================
+WELCOME MESSAGE
+========================================
+
+When the chatbot starts, display:
+
+"Hi! 👋 I'm the C3 AI Assistant.
+Ask me anything about C3, its domains, activities, team,
+AIML domain and opportunities."
+
+
+========================================
+END OF C3 KNOWLEDGE BASE
 ========================================
